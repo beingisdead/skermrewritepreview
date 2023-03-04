@@ -1,0 +1,20 @@
+{
+    "request_timeout": 5000,
+    
+    "home_webhook": {
+        "url": ""
+    },
+
+    "github": {
+        "api_keys": [""],
+        "search_parameter": "search/code?q=discord.com/api/webhooks&sort=indexed&direction=desc"
+    },
+    "dev_options": {
+        "test_mode": true
+    },
+
+    "logging": {
+        "debugging": true,
+        "config": ""
+    }
+}
